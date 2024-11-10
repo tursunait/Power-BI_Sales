@@ -1,4 +1,5 @@
 # Power-BI_Sales Demo Gif
 
-[!Demo]('Sales Power BI.gif')
+![Demo](Sales%20Power%20BI.gif)
+
 
